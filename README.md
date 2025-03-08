@@ -1,0 +1,2 @@
+# git_practical_trail
+基于Github和Gitlab双远程仓库实践操作的尝试。
